@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("/images/52hjcTAn7wVrV3UXzHx8_T0RfmHOH4TcSQxjnCbS2Bb9TOH45bHjZL30WyIyCLJzknDko0XLZBut5u-FBbQzAFRe.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("images/52hjcTAn7wVrV3UXzHx8_T0RfmHOH4TcSQxjnCbS2Bb9TOH45bHjZL30WyIyCLJzknDko0XLZBut5u-FBbQzAFRe.jpg");
   background-position: 50% 50%;
 }
 
@@ -90,7 +90,7 @@
 .u-section-2 .u-image-1 {
   width: 128px;
   height: 128px;
-  background-image: url("/images/5889596-pbkyyhds-v4.webp");
+  background-image: url("images/5889596-pbkyyhds-v4.webp");
   background-position: 50% 50%;
   margin: 47px auto 0 0;
 }
@@ -125,7 +125,7 @@
   width: 128px;
   height: 128px;
   object-position: 26.64% 50%;
-  background-image: url("/images/0fcpg10I754.jpg");
+  background-image: url("images/0fcpg10I754.jpg");
   background-position: 50% 50%;
   margin: 47px auto 0 0;
 }
