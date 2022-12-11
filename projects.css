@@ -53,8 +53,7 @@
 .u-section-2 .u-image-1 {
   height: 449px;
   object-position: 72.96% 50%;
-  width: 310px;
-  margin: 13px auto 0;
+  margin: 13px 0 0;
 }
 
 .u-section-2 .u-text-2 {
@@ -81,8 +80,7 @@
 .u-section-2 .u-image-2 {
   height: 449px;
   object-position: 54.79% 50%;
-  width: 310px;
-  margin: 13px auto 0;
+  margin: 13px 0 0;
 }
 
 .u-section-2 .u-text-4 {
@@ -109,8 +107,7 @@
 .u-section-2 .u-image-3 {
   height: 449px;
   object-position: 49.43% 50%;
-  width: 310px;
-  margin: 13px auto 0;
+  margin: 13px 0 0;
 }
 
 .u-section-2 .u-text-6 {
@@ -241,6 +238,8 @@
     --animation-custom_in-opacity: 0;
     --animation-custom_in-rotate: 0deg;
     --animation-custom_in-scale: 1;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-2 .u-image-2 {
@@ -249,6 +248,8 @@
     --animation-custom_in-opacity: 0;
     --animation-custom_in-rotate: 0deg;
     --animation-custom_in-scale: 1;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-2 .u-image-3 {
@@ -257,6 +258,8 @@
     --animation-custom_in-opacity: 0;
     --animation-custom_in-rotate: 0deg;
     --animation-custom_in-scale: 1;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-2 .u-list-2 {
